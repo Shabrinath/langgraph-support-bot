@@ -58,7 +58,7 @@ This repository demonstrates a **simple yet complex workflow** that showcases:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shabrinath/langgraph-support-bot
    cd langgraph
    ```
 
